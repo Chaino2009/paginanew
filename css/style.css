@@ -1,15 +1,3 @@
-#galeria .col-lg-4 {
-  padding: 25px;
-  margin: 0;
-}
-#galeria img {
-  width: 100%;
-  height: 300px;
-}
-#galeria img:hover {
-  border: 5px solid white;
-}
-#logo {
-  height: 300px;
-  background-color: black;
-}
+
+
+/*# sourceMappingURL=style.css.map */
